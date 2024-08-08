@@ -1,0 +1,144 @@
+/* CSS Selector */
+/* body {
+        background-color: red;
+        color: pink;
+    } */
+
+/* Element Selector  */
+/* h2 {
+        background-color: aqua;
+        color: red;
+    } */
+
+/* id Selector */
+/* #first {
+        color: aquamarine;
+        background-color: black;
+    }
+    #second {
+        color: blue;
+        background-color: brown;
+    } */
+
+/* class selector */
+/* .class {
+        background-color: beige;
+        color: blueviolet;
+    } */
+
+/* colour property */
+/* p {
+        background-color: brown;
+        color: greenyellow;
+    } */
+/* body {
+        background-image: url("img1.webp");
+        background-repeat: repeat-x;
+        background-size: cover; 
+        background-size: contain; 
+        background-size: auto;
+        background-repeat: repeat-y; 
+        background-repeat: no-repeat;
+    }  */
+
+/* CSS Box Model */
+/* Height & Width */
+/* #box1 {
+        background-color: red;
+        color: aquamarine;
+        height: 50px;
+        width: 50px;   
+    }
+    #box2 {
+        background-color: rgb(0, 8, 255);
+        color: rgb(222, 209, 28);
+        height: 50px;
+        width: 50px;   
+    } */
+/* Margin & Padding & Borders & radius*/
+/* .first {
+        background-color: rgb(214, 214, 22);
+        color: blue;
+        height: 100px;
+        width: 100px;
+        margin: 14px;
+        padding: 15px;
+        border: 3px solid black;
+        border-radius: 10px;
+    }
+    .Second {
+        background-color: rgb(22, 214, 28);
+        color: blue;
+        height: 100px;
+        width: 100px;
+        margin: 10px;
+        padding: 15px;
+        border: 4px solid pink;
+        border-radius: 10px;
+        box-sizing: border-box;
+
+    } */
+
+/* fonts & display */
+/* .box1 {
+        width: 130px;
+        height: 130px;
+        background-color: red; */
+/* display: inline; */
+/* display: block; */
+/* display: inline-block; */
+/* display: none; */
+/* text-align: center; */
+/* text-decoration: wavy; */
+/* text-transform: lowercase; */
+/* line-height: 0.8px; */
+
+/* }
+    .box2 {
+        width: 130px;
+        height: 130px;
+        background-color: rgb(0, 0, 255);
+    } */
+/* p {
+        background-color: red;
+        width: 1000px;
+        height: 500px;
+        color: wheat;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 800;
+        font-style: italic;
+    } */
+
+/* size position list */
+/* .container{
+       font-size: 12px;
+    }
+    .box{
+        font-size: 3em;
+    } */
+
+/* .container {
+  font-size: 4px;
+}
+.box {
+  font-size: 3rem;
+  background-color: red;
+}
+.box2{
+    background-color: aqua;
+    width: 334px;
+    width: 50vw;
+    height: 50vh;
+} */
+
+/* .container{
+    width: 40px;
+    height: 30vh;
+    background-color: aqua;
+    min-height: 50vh;
+    min-width: 50vw;
+    max-height: 50vh;
+    max-width: 50vw;
+
+} */
